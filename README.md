@@ -1,2 +1,3 @@
-MLPClassification kullanılarak Diyabet tahmini
+# MLPClassification kullanılarak Diyabet tahmini
 
+-Öğrenme projesi

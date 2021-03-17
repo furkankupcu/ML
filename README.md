@@ -1,3 +1,3 @@
-# MLPClassification kullanılarak Diyabet tahmini
+# MLPClassification kullanılarak Diyabet Tahmini
 
--Öğrenme projesi
+Yapay Sinir Ağları dersi projesi
